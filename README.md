@@ -1,9 +1,9 @@
 # Machine Learning
 http://www.fast.ai
 
-#Python
+# Python
 
-#Django
+# Django
 
-#Podcasts
+# Podcasts
 https://radio-t.com/
