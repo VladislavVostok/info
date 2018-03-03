@@ -7,3 +7,6 @@ http://www.fast.ai
 
 # Podcasts
 https://radio-t.com/
+
+
+Разметка https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
