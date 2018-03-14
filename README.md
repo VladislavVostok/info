@@ -5,6 +5,7 @@ http://www.fast.ai
 
 # Django
 https://docs.djangoproject.com/en/2.0/topics/i18n/translation/   -  Дока по Django
+http://www.django-rest-framework.org  -  Дока по restframework
 
 # Podcasts
 https://radio-t.com/
