@@ -22,5 +22,6 @@ https://quantumexperience.ng.bluemix.net/qx/editor - Интерфейс от IBM
 
 # Интересные ссылки:
 http://www.michurin.net/online-tools/perlin-noise-tileable.html
+https://trello.com/ - простая agile доска.
 
 Разметка https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
