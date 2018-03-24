@@ -20,4 +20,7 @@ https://portal.azure.com/  - Портал Azure
 # Quantum computers
 https://quantumexperience.ng.bluemix.net/qx/editor - Интерфейс от IBM для программирования квантовых компьютеров.
 
+# Интересные ссылки:
+http://www.michurin.net/online-tools/perlin-noise-tileable.html
+
 Разметка https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
