@@ -1,5 +1,5 @@
 # Machine Learning
-http://www.fast.ai
+http://www.fast.ai  -  курс от Google (eng)
 
 # Python
 https://conda.io/miniconda.html  -   miniconda
