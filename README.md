@@ -18,6 +18,8 @@ https://www.netlify.com/ (http://awesome-ezteam.netlify.com/)  -  Билдит �
 
 https://portal.azure.com/  - Портал Azure
 
+https://docs.webfaction.com/software/django/getting-started.html   -  можно разворачивать приложения на Django
+
 # Quantum computers
 https://quantumexperience.ng.bluemix.net/qx/editor - Интерфейс от IBM для программирования квантовых компьютеров.
 
