@@ -2,6 +2,7 @@
 http://www.fast.ai
 
 # Python
+https://conda.io/miniconda.html  -   miniconda
 
 # Django
 https://docs.djangoproject.com/en/2.0/topics/i18n/translation/   -  Дока по Django 
