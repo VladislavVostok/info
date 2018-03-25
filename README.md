@@ -24,4 +24,7 @@ https://quantumexperience.ng.bluemix.net/qx/editor - Интерфейс от IBM
 http://www.michurin.net/online-tools/perlin-noise-tileable.html
 https://trello.com/ - простая agile доска.
 
+http://www.codewars.com/trainer/python  -  задачки по программированию (eng)
+
+
 Разметка https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet
