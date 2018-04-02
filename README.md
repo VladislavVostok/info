@@ -1,6 +1,9 @@
 # Machine Learning
 http://www.fast.ai  -  курс от Google (eng)
 
+# Token
+https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc - about tokens
+
 # Python
 https://conda.io/miniconda.html  -   miniconda
 
