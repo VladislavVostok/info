@@ -1,5 +1,6 @@
 # Machine Learning
 http://www.fast.ai  -  курс от Google (eng)
+https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intelligence/ - курс от Microsoft (eng)
 
 # Token
 https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc - about tokens
