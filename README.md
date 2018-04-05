@@ -14,6 +14,9 @@ https://docs.djangoproject.com/en/2.0/topics/i18n/translation/   -  Дока п�
 
 http://www.django-rest-framework.org  -  Дока по restframework
 
+# Library
+http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial -  NumPy
+
 # Podcasts
 https://radio-t.com/
 
