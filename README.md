@@ -22,6 +22,8 @@ https://www.tensorflow.org/
 
 http://www.deeplearning.net/software/theano/
 
+http://scikit-learn.org/stable/
+
 # Podcasts
 https://radio-t.com/
 
