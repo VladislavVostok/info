@@ -17,6 +17,11 @@ http://www.django-rest-framework.org  -  Дока по restframework
 # Library
 http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial -  NumPy
 
+## Для глубинного машинного обучения
+https://www.tensorflow.org/
+
+http://www.deeplearning.net/software/theano/
+
 # Podcasts
 https://radio-t.com/
 
