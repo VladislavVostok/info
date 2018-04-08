@@ -5,6 +5,8 @@ https://academy.microsoft.com/en-us/professional-program/tracks/artificial-intel
 
 https://github.com/shwars/neuroworkshop   -   Лабы с интенсива Дмитрия Сошникова
 
+https://www.youtube.com/watch?v=T0Myf8B0Dj8 - Видео введение в инструментарий.
+
 # Token
 https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc - about tokens
 
