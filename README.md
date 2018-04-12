@@ -16,6 +16,8 @@ https://conda.io/miniconda.html  -   miniconda
 # Django
 https://docs.djangoproject.com/en/2.0/topics/i18n/translation/   -  Дока по Django 
 
+http://django-helpdesk.readthedocs.io/en/0.2.x/   - Help DESK
+
 http://www.django-rest-framework.org  -  Дока по restframework
 
 # Library
