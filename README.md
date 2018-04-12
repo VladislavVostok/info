@@ -20,6 +20,9 @@ http://django-helpdesk.readthedocs.io/en/0.2.x/   - Help DESK
 
 http://www.django-rest-framework.org  -  Дока по restframework
 
+# React
+https://udilia.com/courses/learn-react-by-building-a-web-app/3 - прохожу
+
 # Library
 http://scipy.github.io/old-wiki/pages/Tentative_NumPy_Tutorial -  NumPy
 
