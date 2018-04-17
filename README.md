@@ -1,3 +1,10 @@
+# sock-proxy
+https://hub.docker.com/r/serjs/go-socks5-proxy/
+
+https://tunnelblick.net/
+
+http://p.umputun.com/p/2014/08/12/svoi-sobstviennyi-vpn-za-3-minuty/
+
 # Machine Learning
 http://www.fast.ai  -  курс от Google (eng)
 
