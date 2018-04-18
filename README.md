@@ -14,6 +14,8 @@ https://github.com/shwars/neuroworkshop   -   Лабы с интенсива Д�
 
 https://www.youtube.com/watch?v=T0Myf8B0Dj8 - Видео введение в инструментарий.
 
+https://github.com/demidovakatya/vvedenie-mashinnoe-obuchenie   -   Ссылки по ML.
+
 # Token
 https://gist.github.com/zmts/802dc9c3510d79fd40f9dc38a12bccfc - about tokens
 
